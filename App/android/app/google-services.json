@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323927601206",
+    "project_id": "farmtofork-b78ec",
+    "storage_bucket": "farmtofork-b78ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323927601206:android:23a87cf252051bef29e897",
+        "android_client_info": {
+          "package_name": "com.example.file"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3AkuTofA6pnDr7-48I6OfJnq9l8cWrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
